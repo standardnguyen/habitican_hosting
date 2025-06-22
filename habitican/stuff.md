@@ -17,3 +17,7 @@ phoenix wright
 doctor who
 
 pokemon gens 1-5
+
+queue:
+
+run a piece of code that basically renames the files so you know where all the things come from
